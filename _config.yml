@@ -35,7 +35,7 @@ flavor: "r"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Workshop Title"
+title: "CCP-CoDiMa SageMath training"
 
 
 #------------------------------------------------------------
@@ -51,7 +51,7 @@ kind: "workshop"
 repository: <USERNAME>/<PROJECT>
 
 # Email address, no mailto:
-# (Don't change this -- the contact address for your workshop will be set 
+# (Don't change this -- the contact address for your workshop will be set
 # in the index.md file)
 email: "team@carpentries.org"
 
