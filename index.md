@@ -95,6 +95,16 @@ workshop is only open to people from a particular institution.
 {% include lc/who.html %}
 {% endif %}
 
+<p id="support">
+For UK-based researchers in the area of discrete computational mathematics
+located outside Lancaster, certain financial support is available to cover
+travel, accommodation and subsistence to attend both days of the workshop.
+To apply, please tick the appropriate box in the registration form, and
+the organisers will contact you for further details. In case of being
+oversubscribed, we reserve the right to prioritise applications from
+PhD students and early career researchers.
+</p>
+
 {% comment %}
 LOCATION
 
