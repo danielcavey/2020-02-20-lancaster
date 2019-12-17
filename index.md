@@ -105,6 +105,15 @@ oversubscribed, we reserve the right to prioritise applications from
 PhD students and early career researchers.
 </p>
 
+<p>
+External participants are asked to make their own arrangements for travel and accommodation. 
+On campus, there is a standard student-style ensuite B&B accommodation which you can book 
+<a href="https://www.lancaster.ac.uk/conferences/booking">here</a>, and also a more expensive 
+<a href="https://englishlakes.co.uk/lancaster-house/">Lancaster House hotel</a>. Alternatively, 
+there's a <a href="https://www.travelodge.co.uk/hotels/498/Lancaster-Central-hotel">Travelodge hotel</a> 
+in the city centre and <a href="https://www.stagecoachbus.com/">regular buses to campus</a> from there.
+</p>
+
 {% comment %}
 LOCATION
 
