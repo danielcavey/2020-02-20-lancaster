@@ -14,7 +14,7 @@ instructor: ["Alexander Konovalov (University of St Andrews)", "Samuel Lelièvre
 helper: ["Awss Al-Ogaidi (University of Sussex)"] # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["alexander.konovalov@st-andrews.ac.uk"] # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
-eventbrite: "85828690925" # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -32,6 +32,10 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 <a href="http://www.codima.ac.uk">CCP-CoDiMa</a> - Collaborative
 Computational Project in the area of Computational Discrete
 Mathematics (EPSRC grant EP/M022641/1).
+</strong>
+
+<strong>
+Registration for the workshop is now closed.
 </strong>
 
 {% comment %}
