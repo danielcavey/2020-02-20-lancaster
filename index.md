@@ -133,7 +133,9 @@ address.
   Get directions with
   <a href="//www.openstreetmap.org/?mlat={{page.latitude}}&mlon={{page.longitude}}&zoom=16">OpenStreetMap</a>
   or
-  <a href="//maps.google.com/maps?q={{page.latitude}},{{page.longitude}}">Google Maps</a>.
+  <a href="//maps.google.com/maps?q={{page.latitude}},{{page.longitude}}">Google Maps</a>. See also
+  <a href="https://www.lancaster.ac.uk/media/lancaster-university/content-assets/documents/maps/campus-map.pdf">Maps and directions to campus</a>
+  and <a href="https://www.lancaster.ac.uk/media/lancaster-university/content-assets/documents/maps/campus-map.pdf">the campus map</a>.
 </p>
 {% endif %}
 
